@@ -4,11 +4,9 @@
     box-sizing: border-box;
   }
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #00ffd5;
     font-family:  Helvetica, Arial, sans-serif;
-    background-color: #000000;
-    
+     background-color:#000000     
   }
   /* apply styles to <header> */
 header {
@@ -96,7 +94,7 @@ li{
     width:750px;
     height:280px;
     margin:30px;
-    background-image:"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cccneb.edu%2Fprograms%2Fcccmart%2Fgallery%2Fgraphic_arts%2Fweb%2F2003tyler%2FPr1%2Fimages%2Fspritecranberry.jpg&imgrefurl=https%3A%2F%2Fwww.cccneb.edu%2Fprograms%2Fcccmart%2Fgallery%2Fgraphic_arts%2Fweb%2F2003tyler%2FPr1%2Fpage_2.html&tbnid=9_djX-fJsc7DrM&vet=12ahUKEwi-0JHgjdrxAhVxja0KHcciDmEQMygGegUIARC6AQ..i&docid=HHg3jXf4FXxIcM&w=480&h=360&q=dank%20memes&ved=2ahUKEwi-0JHgjdrxAhVxja0KHcciDmEQMygGegUIARC6AQ";
+    background-image:url("./portfolio/assets/usethisone.jpg")
     }
   #Space-Junk{
     background-color: floralwhite;
